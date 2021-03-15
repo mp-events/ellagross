@@ -30,5 +30,5 @@ jobs:
           user_email: github-actions[bot]@users.noreply.github.com
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          # cname: ellagroß.de
+          cname: xn--ellagro-6va.de
           commit_message: ${{ github.event.head_commit.message }}
