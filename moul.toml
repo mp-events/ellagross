@@ -1,0 +1,31 @@
+base = "/"
+ga_measurement_id = ""
+
+[style]
+theme = "system-preference"
+cover = "center"
+content = "left"
+
+[profile]
+name = "Ella Groß"
+bio = "Textzeile mit Kurzinfo"
+
+[social]
+twitter = "moul_co"
+github = "moulco/moul"
+instagram = "moul.co"
+facebook = "facebook"
+youtube = "youtube"
+
+[content]
+title = "Titel für diese Seite"
+tags  = ["Beliebige", "Schlagwörter"]
+text  = """
+Beschreibung mit weiteren Informationen
+"""
+
+[section.1]
+title = "Weitere Bilder"
+text = """
+Mehr Infos
+"""
